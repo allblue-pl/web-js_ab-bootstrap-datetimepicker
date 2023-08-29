@@ -2,9 +2,9 @@
   "name": "ab-bootstrap-datetimepicker",
   "version": "0.0.1",
   "dependencies": {
-    "bootstrap": "5.0.*",
-    "jquery": "3.*",
-    "moment": "2.*",
-    "moment-timezone": "0.4.*"
+    "bootstrap": "5.2.*",
+    "jquery": "3.7.*",
+    "moment": "2.29.*",
+    "moment-timezone": "0.5.*"
   }
 }
