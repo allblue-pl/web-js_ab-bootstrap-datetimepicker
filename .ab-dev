@@ -1,0 +1,5 @@
+{
+    "abDependencies": {
+        "ab-bootstrap": "https://github.com/allblue-pl/node_ab-bootstrap"
+    }
+}
